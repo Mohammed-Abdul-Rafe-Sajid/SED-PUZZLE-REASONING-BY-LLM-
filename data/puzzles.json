@@ -1,0 +1,4642 @@
+[
+  {
+    "problem_id": "000",
+    "initial_string": "TGTRCKAFPOSSFPVTE",
+    "transitions": [
+      {
+        "src": "FPV",
+        "tgt": ""
+      },
+      {
+        "src": "POSS",
+        "tgt": ""
+      },
+      {
+        "src": "TG",
+        "tgt": ""
+      },
+      {
+        "src": "FP",
+        "tgt": "PV"
+      },
+      {
+        "src": "PO",
+        "tgt": "OSS"
+      },
+      {
+        "src": "TR",
+        "tgt": ""
+      },
+      {
+        "src": "CKAF",
+        "tgt": ""
+      },
+      {
+        "src": "TE",
+        "tgt": ""
+      },
+      {
+        "src": "CK",
+        "tgt": "KAF"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "001",
+    "initial_string": "WPULDXCVQWEBRU",
+    "transitions": [
+      {
+        "src": "WP",
+        "tgt": "PU"
+      },
+      {
+        "src": "VQW",
+        "tgt": ""
+      },
+      {
+        "src": "LD",
+        "tgt": "DXC"
+      },
+      {
+        "src": "EBRU",
+        "tgt": ""
+      },
+      {
+        "src": "WPU",
+        "tgt": ""
+      },
+      {
+        "src": "EB",
+        "tgt": "BRU"
+      },
+      {
+        "src": "VQ",
+        "tgt": "QW"
+      },
+      {
+        "src": "LDXC",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "002",
+    "initial_string": "JFSRBESEJRFITFAKBXWIRK",
+    "transitions": [
+      {
+        "src": "JF",
+        "tgt": ""
+      },
+      {
+        "src": "WIRK",
+        "tgt": ""
+      },
+      {
+        "src": "RFIT",
+        "tgt": ""
+      },
+      {
+        "src": "WI",
+        "tgt": "IRK"
+      },
+      {
+        "src": "ES",
+        "tgt": "SEJ"
+      },
+      {
+        "src": "KBX",
+        "tgt": ""
+      },
+      {
+        "src": "SRB",
+        "tgt": ""
+      },
+      {
+        "src": "RF",
+        "tgt": "FIT"
+      },
+      {
+        "src": "FA",
+        "tgt": ""
+      },
+      {
+        "src": "ESEJ",
+        "tgt": ""
+      },
+      {
+        "src": "SR",
+        "tgt": "RB"
+      },
+      {
+        "src": "KB",
+        "tgt": "BX"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "003",
+    "initial_string": "FZNTWQUPKPNZWRCTTIH",
+    "transitions": [
+      {
+        "src": "PKP",
+        "tgt": ""
+      },
+      {
+        "src": "RC",
+        "tgt": ""
+      },
+      {
+        "src": "TT",
+        "tgt": "TIH"
+      },
+      {
+        "src": "PK",
+        "tgt": "KP"
+      },
+      {
+        "src": "TTIH",
+        "tgt": ""
+      },
+      {
+        "src": "TW",
+        "tgt": ""
+      },
+      {
+        "src": "NZ",
+        "tgt": "ZW"
+      },
+      {
+        "src": "NZW",
+        "tgt": ""
+      },
+      {
+        "src": "FZN",
+        "tgt": ""
+      },
+      {
+        "src": "FZ",
+        "tgt": "ZN"
+      },
+      {
+        "src": "QU",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "004",
+    "initial_string": "FJEYXPMCWVHGOCMZNDMENPZ",
+    "transitions": [
+      {
+        "src": "XPMC",
+        "tgt": ""
+      },
+      {
+        "src": "WVH",
+        "tgt": ""
+      },
+      {
+        "src": "ENPZ",
+        "tgt": ""
+      },
+      {
+        "src": "FJEY",
+        "tgt": ""
+      },
+      {
+        "src": "EN",
+        "tgt": "NPZ"
+      },
+      {
+        "src": "XP",
+        "tgt": "PMC"
+      },
+      {
+        "src": "WV",
+        "tgt": "VH"
+      },
+      {
+        "src": "ZN",
+        "tgt": ""
+      },
+      {
+        "src": "DM",
+        "tgt": ""
+      },
+      {
+        "src": "CM",
+        "tgt": ""
+      },
+      {
+        "src": "GO",
+        "tgt": ""
+      },
+      {
+        "src": "FJ",
+        "tgt": "JEY"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "005",
+    "initial_string": "PFASFX",
+    "transitions": [
+      {
+        "src": "FX",
+        "tgt": ""
+      },
+      {
+        "src": "PF",
+        "tgt": ""
+      },
+      {
+        "src": "AS",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "006",
+    "initial_string": "RFDOGMKCLKWBZCKIGE",
+    "transitions": [
+      {
+        "src": "GE",
+        "tgt": ""
+      },
+      {
+        "src": "ZCKI",
+        "tgt": ""
+      },
+      {
+        "src": "RFD",
+        "tgt": ""
+      },
+      {
+        "src": "ZC",
+        "tgt": "CKI"
+      },
+      {
+        "src": "KWB",
+        "tgt": ""
+      },
+      {
+        "src": "KW",
+        "tgt": "WB"
+      },
+      {
+        "src": "OGMK",
+        "tgt": ""
+      },
+      {
+        "src": "RF",
+        "tgt": "FD"
+      },
+      {
+        "src": "CL",
+        "tgt": ""
+      },
+      {
+        "src": "OG",
+        "tgt": "GMK"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "007",
+    "initial_string": "QOZYEMWXJZYUH",
+    "transitions": [
+      {
+        "src": "ZY",
+        "tgt": ""
+      },
+      {
+        "src": "EM",
+        "tgt": ""
+      },
+      {
+        "src": "QO",
+        "tgt": ""
+      },
+      {
+        "src": "WX",
+        "tgt": ""
+      },
+      {
+        "src": "JZ",
+        "tgt": ""
+      },
+      {
+        "src": "YU",
+        "tgt": "UH"
+      },
+      {
+        "src": "YUH",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "008",
+    "initial_string": "POIBMXEYCEBWKY",
+    "transitions": [
+      {
+        "src": "EY",
+        "tgt": "YCE"
+      },
+      {
+        "src": "BWKY",
+        "tgt": ""
+      },
+      {
+        "src": "EYCE",
+        "tgt": ""
+      },
+      {
+        "src": "PO",
+        "tgt": ""
+      },
+      {
+        "src": "BW",
+        "tgt": "WKY"
+      },
+      {
+        "src": "IBMX",
+        "tgt": ""
+      },
+      {
+        "src": "IB",
+        "tgt": "BMX"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "009",
+    "initial_string": "OIGRGKRLYYLZBFDJB",
+    "transitions": [
+      {
+        "src": "OI",
+        "tgt": "IGR"
+      },
+      {
+        "src": "OIGR",
+        "tgt": ""
+      },
+      {
+        "src": "LY",
+        "tgt": "YY"
+      },
+      {
+        "src": "LYY",
+        "tgt": ""
+      },
+      {
+        "src": "GK",
+        "tgt": "KR"
+      },
+      {
+        "src": "DJ",
+        "tgt": "JB"
+      },
+      {
+        "src": "GKR",
+        "tgt": ""
+      },
+      {
+        "src": "BF",
+        "tgt": ""
+      },
+      {
+        "src": "DJB",
+        "tgt": ""
+      },
+      {
+        "src": "LZ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "010",
+    "initial_string": "YCWDCOHFIQGMXCLBIDELSABWX",
+    "transitions": [
+      {
+        "src": "CL",
+        "tgt": ""
+      },
+      {
+        "src": "QGMX",
+        "tgt": ""
+      },
+      {
+        "src": "DCO",
+        "tgt": ""
+      },
+      {
+        "src": "HF",
+        "tgt": "FI"
+      },
+      {
+        "src": "BI",
+        "tgt": "ID"
+      },
+      {
+        "src": "ABWX",
+        "tgt": ""
+      },
+      {
+        "src": "EL",
+        "tgt": "LS"
+      },
+      {
+        "src": "QG",
+        "tgt": "GMX"
+      },
+      {
+        "src": "ELS",
+        "tgt": ""
+      },
+      {
+        "src": "HFI",
+        "tgt": ""
+      },
+      {
+        "src": "AB",
+        "tgt": "BWX"
+      },
+      {
+        "src": "DC",
+        "tgt": "CO"
+      },
+      {
+        "src": "BID",
+        "tgt": ""
+      },
+      {
+        "src": "YCW",
+        "tgt": ""
+      },
+      {
+        "src": "YC",
+        "tgt": "CW"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "011",
+    "initial_string": "CUWKTYGEWAYUKRVGUCWF",
+    "transitions": [
+      {
+        "src": "VG",
+        "tgt": "GUC"
+      },
+      {
+        "src": "YUKR",
+        "tgt": ""
+      },
+      {
+        "src": "WA",
+        "tgt": ""
+      },
+      {
+        "src": "CUWK",
+        "tgt": ""
+      },
+      {
+        "src": "YU",
+        "tgt": "UKR"
+      },
+      {
+        "src": "TYGE",
+        "tgt": ""
+      },
+      {
+        "src": "CU",
+        "tgt": "UWK"
+      },
+      {
+        "src": "VGUC",
+        "tgt": ""
+      },
+      {
+        "src": "WF",
+        "tgt": ""
+      },
+      {
+        "src": "TY",
+        "tgt": "YGE"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "012",
+    "initial_string": "WZHNRVICZPZCL",
+    "transitions": [
+      {
+        "src": "NR",
+        "tgt": "RVI"
+      },
+      {
+        "src": "CL",
+        "tgt": ""
+      },
+      {
+        "src": "NRVI",
+        "tgt": ""
+      },
+      {
+        "src": "WZH",
+        "tgt": ""
+      },
+      {
+        "src": "PZ",
+        "tgt": ""
+      },
+      {
+        "src": "CZ",
+        "tgt": ""
+      },
+      {
+        "src": "WZ",
+        "tgt": "ZH"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "013",
+    "initial_string": "LNURTFLYQRDNRI",
+    "transitions": [
+      {
+        "src": "LNUR",
+        "tgt": ""
+      },
+      {
+        "src": "QR",
+        "tgt": "RD"
+      },
+      {
+        "src": "QRD",
+        "tgt": ""
+      },
+      {
+        "src": "NRI",
+        "tgt": ""
+      },
+      {
+        "src": "TF",
+        "tgt": "FLY"
+      },
+      {
+        "src": "TFLY",
+        "tgt": ""
+      },
+      {
+        "src": "NR",
+        "tgt": "RI"
+      },
+      {
+        "src": "LN",
+        "tgt": "NUR"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "014",
+    "initial_string": "QHVHFURMLFUYTCNQIRFDBPTL",
+    "transitions": [
+      {
+        "src": "RMLF",
+        "tgt": ""
+      },
+      {
+        "src": "PT",
+        "tgt": "TL"
+      },
+      {
+        "src": "RF",
+        "tgt": ""
+      },
+      {
+        "src": "CNQI",
+        "tgt": ""
+      },
+      {
+        "src": "QH",
+        "tgt": ""
+      },
+      {
+        "src": "VH",
+        "tgt": "HFU"
+      },
+      {
+        "src": "VHFU",
+        "tgt": ""
+      },
+      {
+        "src": "CN",
+        "tgt": "NQI"
+      },
+      {
+        "src": "PTL",
+        "tgt": ""
+      },
+      {
+        "src": "DB",
+        "tgt": ""
+      },
+      {
+        "src": "UYT",
+        "tgt": ""
+      },
+      {
+        "src": "RM",
+        "tgt": "MLF"
+      },
+      {
+        "src": "UY",
+        "tgt": "YT"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "015",
+    "initial_string": "OXLUNOIT",
+    "transitions": [
+      {
+        "src": "OX",
+        "tgt": ""
+      },
+      {
+        "src": "LU",
+        "tgt": ""
+      },
+      {
+        "src": "NOIT",
+        "tgt": ""
+      },
+      {
+        "src": "NO",
+        "tgt": "OIT"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "016",
+    "initial_string": "TMTVHMGLSHICDJDBKMBVK",
+    "transitions": [
+      {
+        "src": "CDJD",
+        "tgt": ""
+      },
+      {
+        "src": "MG",
+        "tgt": "GLS"
+      },
+      {
+        "src": "TVH",
+        "tgt": ""
+      },
+      {
+        "src": "HI",
+        "tgt": ""
+      },
+      {
+        "src": "BK",
+        "tgt": ""
+      },
+      {
+        "src": "MGLS",
+        "tgt": ""
+      },
+      {
+        "src": "MB",
+        "tgt": "BVK"
+      },
+      {
+        "src": "TV",
+        "tgt": "VH"
+      },
+      {
+        "src": "MBVK",
+        "tgt": ""
+      },
+      {
+        "src": "TM",
+        "tgt": ""
+      },
+      {
+        "src": "CD",
+        "tgt": "DJD"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "017",
+    "initial_string": "LAIUSVXNXPRQD",
+    "transitions": [
+      {
+        "src": "LA",
+        "tgt": "AI"
+      },
+      {
+        "src": "NX",
+        "tgt": "XPR"
+      },
+      {
+        "src": "US",
+        "tgt": "SVX"
+      },
+      {
+        "src": "NXPR",
+        "tgt": ""
+      },
+      {
+        "src": "LAI",
+        "tgt": ""
+      },
+      {
+        "src": "USVX",
+        "tgt": ""
+      },
+      {
+        "src": "QD",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "018",
+    "initial_string": "IWHGCABYFB",
+    "transitions": [
+      {
+        "src": "GCA",
+        "tgt": ""
+      },
+      {
+        "src": "BYFB",
+        "tgt": ""
+      },
+      {
+        "src": "IW",
+        "tgt": "WH"
+      },
+      {
+        "src": "GC",
+        "tgt": "CA"
+      },
+      {
+        "src": "IWH",
+        "tgt": ""
+      },
+      {
+        "src": "BY",
+        "tgt": "YFB"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "019",
+    "initial_string": "DRYMGJ",
+    "transitions": [
+      {
+        "src": "YMGJ",
+        "tgt": ""
+      },
+      {
+        "src": "DR",
+        "tgt": ""
+      },
+      {
+        "src": "YM",
+        "tgt": "MGJ"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "020",
+    "initial_string": "PYRYKSPV",
+    "transitions": [
+      {
+        "src": "PV",
+        "tgt": ""
+      },
+      {
+        "src": "RY",
+        "tgt": "YKS"
+      },
+      {
+        "src": "PY",
+        "tgt": ""
+      },
+      {
+        "src": "RYKS",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "021",
+    "initial_string": "UOJLBQAVCYXLDEZHVNMVPWVC",
+    "transitions": [
+      {
+        "src": "XLDE",
+        "tgt": ""
+      },
+      {
+        "src": "BQ",
+        "tgt": "QA"
+      },
+      {
+        "src": "ZH",
+        "tgt": "HVN"
+      },
+      {
+        "src": "JL",
+        "tgt": ""
+      },
+      {
+        "src": "BQA",
+        "tgt": ""
+      },
+      {
+        "src": "MV",
+        "tgt": "VP"
+      },
+      {
+        "src": "UO",
+        "tgt": ""
+      },
+      {
+        "src": "ZHVN",
+        "tgt": ""
+      },
+      {
+        "src": "MVP",
+        "tgt": ""
+      },
+      {
+        "src": "XL",
+        "tgt": "LDE"
+      },
+      {
+        "src": "VC",
+        "tgt": "CY"
+      },
+      {
+        "src": "WV",
+        "tgt": "VC"
+      },
+      {
+        "src": "VCY",
+        "tgt": ""
+      },
+      {
+        "src": "WVC",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "022",
+    "initial_string": "HPWAYCSOGMMUCFGRJO",
+    "transitions": [
+      {
+        "src": "HPW",
+        "tgt": ""
+      },
+      {
+        "src": "GRJO",
+        "tgt": ""
+      },
+      {
+        "src": "AYCS",
+        "tgt": ""
+      },
+      {
+        "src": "MU",
+        "tgt": "UCF"
+      },
+      {
+        "src": "MUCF",
+        "tgt": ""
+      },
+      {
+        "src": "OG",
+        "tgt": "GM"
+      },
+      {
+        "src": "OGM",
+        "tgt": ""
+      },
+      {
+        "src": "GR",
+        "tgt": "RJO"
+      },
+      {
+        "src": "AY",
+        "tgt": "YCS"
+      },
+      {
+        "src": "HP",
+        "tgt": "PW"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "023",
+    "initial_string": "FDNTET",
+    "transitions": [
+      {
+        "src": "FDNT",
+        "tgt": ""
+      },
+      {
+        "src": "FD",
+        "tgt": "DNT"
+      },
+      {
+        "src": "ET",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "024",
+    "initial_string": "FEADBBH",
+    "transitions": [
+      {
+        "src": "FEA",
+        "tgt": ""
+      },
+      {
+        "src": "DB",
+        "tgt": "BBH"
+      },
+      {
+        "src": "FE",
+        "tgt": "EA"
+      },
+      {
+        "src": "DBBH",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "025",
+    "initial_string": "HMIZYMV",
+    "transitions": [
+      {
+        "src": "HM",
+        "tgt": "MIZ"
+      },
+      {
+        "src": "HMIZ",
+        "tgt": ""
+      },
+      {
+        "src": "YMV",
+        "tgt": ""
+      },
+      {
+        "src": "YM",
+        "tgt": "MV"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "026",
+    "initial_string": "BDOHDTPQUJHPLQPTYQGEEEK",
+    "transitions": [
+      {
+        "src": "EE",
+        "tgt": ""
+      },
+      {
+        "src": "BD",
+        "tgt": "DOH"
+      },
+      {
+        "src": "HP",
+        "tgt": "PL"
+      },
+      {
+        "src": "HPL",
+        "tgt": ""
+      },
+      {
+        "src": "QG",
+        "tgt": ""
+      },
+      {
+        "src": "PQUJ",
+        "tgt": ""
+      },
+      {
+        "src": "DT",
+        "tgt": ""
+      },
+      {
+        "src": "BDOH",
+        "tgt": ""
+      },
+      {
+        "src": "QPTY",
+        "tgt": ""
+      },
+      {
+        "src": "EK",
+        "tgt": ""
+      },
+      {
+        "src": "PQ",
+        "tgt": "QUJ"
+      },
+      {
+        "src": "QP",
+        "tgt": "PTY"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "027",
+    "initial_string": "RYLODGDBPVXDRSNMCXT",
+    "transitions": [
+      {
+        "src": "DRS",
+        "tgt": ""
+      },
+      {
+        "src": "RY",
+        "tgt": "YLO"
+      },
+      {
+        "src": "PVX",
+        "tgt": ""
+      },
+      {
+        "src": "PV",
+        "tgt": "VX"
+      },
+      {
+        "src": "NM",
+        "tgt": "MC"
+      },
+      {
+        "src": "XT",
+        "tgt": ""
+      },
+      {
+        "src": "DG",
+        "tgt": "GDB"
+      },
+      {
+        "src": "DGDB",
+        "tgt": ""
+      },
+      {
+        "src": "RYLO",
+        "tgt": ""
+      },
+      {
+        "src": "NMC",
+        "tgt": ""
+      },
+      {
+        "src": "DR",
+        "tgt": "RS"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "028",
+    "initial_string": "MQEPQZMKRWIMRKTLI",
+    "transitions": [
+      {
+        "src": "ZMK",
+        "tgt": ""
+      },
+      {
+        "src": "MR",
+        "tgt": "RKT"
+      },
+      {
+        "src": "RW",
+        "tgt": "WI"
+      },
+      {
+        "src": "RWI",
+        "tgt": ""
+      },
+      {
+        "src": "MQ",
+        "tgt": ""
+      },
+      {
+        "src": "MRKT",
+        "tgt": ""
+      },
+      {
+        "src": "ZM",
+        "tgt": "MK"
+      },
+      {
+        "src": "EP",
+        "tgt": "PQ"
+      },
+      {
+        "src": "EPQ",
+        "tgt": ""
+      },
+      {
+        "src": "LI",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "029",
+    "initial_string": "TQTFDHWMZP",
+    "transitions": [
+      {
+        "src": "ZP",
+        "tgt": ""
+      },
+      {
+        "src": "TQTF",
+        "tgt": ""
+      },
+      {
+        "src": "TQ",
+        "tgt": "QTF"
+      },
+      {
+        "src": "DH",
+        "tgt": "HWM"
+      },
+      {
+        "src": "DHWM",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "030",
+    "initial_string": "FVLDMSSKMMOJXTDBUIUG",
+    "transitions": [
+      {
+        "src": "IU",
+        "tgt": "UG"
+      },
+      {
+        "src": "MS",
+        "tgt": ""
+      },
+      {
+        "src": "TDBU",
+        "tgt": ""
+      },
+      {
+        "src": "OJ",
+        "tgt": "JX"
+      },
+      {
+        "src": "SKMM",
+        "tgt": ""
+      },
+      {
+        "src": "LD",
+        "tgt": ""
+      },
+      {
+        "src": "IUG",
+        "tgt": ""
+      },
+      {
+        "src": "SK",
+        "tgt": "KMM"
+      },
+      {
+        "src": "TD",
+        "tgt": "DBU"
+      },
+      {
+        "src": "OJX",
+        "tgt": ""
+      },
+      {
+        "src": "FV",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "031",
+    "initial_string": "LIEGJWKTSVZUQMAZICVNLDWZB",
+    "transitions": [
+      {
+        "src": "LIE",
+        "tgt": ""
+      },
+      {
+        "src": "TSV",
+        "tgt": ""
+      },
+      {
+        "src": "LI",
+        "tgt": "IE"
+      },
+      {
+        "src": "ZUQ",
+        "tgt": ""
+      },
+      {
+        "src": "DW",
+        "tgt": "WZB"
+      },
+      {
+        "src": "DWZB",
+        "tgt": ""
+      },
+      {
+        "src": "TS",
+        "tgt": "SV"
+      },
+      {
+        "src": "ZU",
+        "tgt": "UQ"
+      },
+      {
+        "src": "GJWK",
+        "tgt": ""
+      },
+      {
+        "src": "NL",
+        "tgt": ""
+      },
+      {
+        "src": "GJ",
+        "tgt": "JWK"
+      },
+      {
+        "src": "ZICV",
+        "tgt": ""
+      },
+      {
+        "src": "MA",
+        "tgt": ""
+      },
+      {
+        "src": "ZI",
+        "tgt": "ICV"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "032",
+    "initial_string": "BQXZCZTSLSBUJLGOUE",
+    "transitions": [
+      {
+        "src": "BQXZ",
+        "tgt": ""
+      },
+      {
+        "src": "LS",
+        "tgt": ""
+      },
+      {
+        "src": "JL",
+        "tgt": "LG"
+      },
+      {
+        "src": "OUE",
+        "tgt": ""
+      },
+      {
+        "src": "OU",
+        "tgt": "UE"
+      },
+      {
+        "src": "JLG",
+        "tgt": ""
+      },
+      {
+        "src": "CZ",
+        "tgt": "ZTS"
+      },
+      {
+        "src": "BU",
+        "tgt": ""
+      },
+      {
+        "src": "BQ",
+        "tgt": "QXZ"
+      },
+      {
+        "src": "CZTS",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "033",
+    "initial_string": "AUXRBYHZRLFKMJJ",
+    "transitions": [
+      {
+        "src": "HZ",
+        "tgt": "ZRL"
+      },
+      {
+        "src": "FK",
+        "tgt": "KM"
+      },
+      {
+        "src": "BY",
+        "tgt": ""
+      },
+      {
+        "src": "FKM",
+        "tgt": ""
+      },
+      {
+        "src": "AUXR",
+        "tgt": ""
+      },
+      {
+        "src": "HZRL",
+        "tgt": ""
+      },
+      {
+        "src": "AU",
+        "tgt": "UXR"
+      },
+      {
+        "src": "JJ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "034",
+    "initial_string": "ZXTVUFUQQTTRDXQUAJCHKFUW",
+    "transitions": [
+      {
+        "src": "KF",
+        "tgt": "FUW"
+      },
+      {
+        "src": "UFU",
+        "tgt": ""
+      },
+      {
+        "src": "ZXTV",
+        "tgt": ""
+      },
+      {
+        "src": "KFUW",
+        "tgt": ""
+      },
+      {
+        "src": "TT",
+        "tgt": "TRD"
+      },
+      {
+        "src": "TTRD",
+        "tgt": ""
+      },
+      {
+        "src": "CH",
+        "tgt": ""
+      },
+      {
+        "src": "UF",
+        "tgt": "FU"
+      },
+      {
+        "src": "QQ",
+        "tgt": ""
+      },
+      {
+        "src": "XQ",
+        "tgt": ""
+      },
+      {
+        "src": "UA",
+        "tgt": "AJ"
+      },
+      {
+        "src": "ZX",
+        "tgt": "XTV"
+      },
+      {
+        "src": "UAJ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "035",
+    "initial_string": "WSZUJ",
+    "transitions": [
+      {
+        "src": "ZU",
+        "tgt": "UJ"
+      },
+      {
+        "src": "WS",
+        "tgt": ""
+      },
+      {
+        "src": "ZUJ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "036",
+    "initial_string": "LRGJQJGAWOFBVXQDBHM",
+    "transitions": [
+      {
+        "src": "QD",
+        "tgt": "DB"
+      },
+      {
+        "src": "LR",
+        "tgt": ""
+      },
+      {
+        "src": "QDB",
+        "tgt": ""
+      },
+      {
+        "src": "HM",
+        "tgt": ""
+      },
+      {
+        "src": "GA",
+        "tgt": "AWO"
+      },
+      {
+        "src": "GJ",
+        "tgt": "JQJ"
+      },
+      {
+        "src": "FB",
+        "tgt": "BVX"
+      },
+      {
+        "src": "GAWO",
+        "tgt": ""
+      },
+      {
+        "src": "FBVX",
+        "tgt": ""
+      },
+      {
+        "src": "GJQJ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "037",
+    "initial_string": "VQAJLWCJXQBEDWCFQ",
+    "transitions": [
+      {
+        "src": "JXQB",
+        "tgt": ""
+      },
+      {
+        "src": "WC",
+        "tgt": ""
+      },
+      {
+        "src": "ED",
+        "tgt": "DW"
+      },
+      {
+        "src": "JX",
+        "tgt": "XQB"
+      },
+      {
+        "src": "EDW",
+        "tgt": ""
+      },
+      {
+        "src": "AJ",
+        "tgt": "JL"
+      },
+      {
+        "src": "AJL",
+        "tgt": ""
+      },
+      {
+        "src": "CFQ",
+        "tgt": ""
+      },
+      {
+        "src": "CF",
+        "tgt": "FQ"
+      },
+      {
+        "src": "VQ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "038",
+    "initial_string": "IDAWDDUCWAUPABTN",
+    "transitions": [
+      {
+        "src": "BTN",
+        "tgt": ""
+      },
+      {
+        "src": "AW",
+        "tgt": "WDD"
+      },
+      {
+        "src": "BT",
+        "tgt": "TN"
+      },
+      {
+        "src": "ID",
+        "tgt": ""
+      },
+      {
+        "src": "PA",
+        "tgt": ""
+      },
+      {
+        "src": "UCW",
+        "tgt": ""
+      },
+      {
+        "src": "AU",
+        "tgt": ""
+      },
+      {
+        "src": "UC",
+        "tgt": "CW"
+      },
+      {
+        "src": "AWDD",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "039",
+    "initial_string": "UWNLBMLCSBCPDQOIZN",
+    "transitions": [
+      {
+        "src": "DQ",
+        "tgt": ""
+      },
+      {
+        "src": "LCS",
+        "tgt": ""
+      },
+      {
+        "src": "BCP",
+        "tgt": ""
+      },
+      {
+        "src": "BM",
+        "tgt": ""
+      },
+      {
+        "src": "OI",
+        "tgt": "IZN"
+      },
+      {
+        "src": "OIZN",
+        "tgt": ""
+      },
+      {
+        "src": "UWNL",
+        "tgt": ""
+      },
+      {
+        "src": "UW",
+        "tgt": "WNL"
+      },
+      {
+        "src": "BC",
+        "tgt": "CP"
+      },
+      {
+        "src": "LC",
+        "tgt": "CS"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "040",
+    "initial_string": "VKSLRJRM",
+    "transitions": [
+      {
+        "src": "RM",
+        "tgt": ""
+      },
+      {
+        "src": "LRJ",
+        "tgt": ""
+      },
+      {
+        "src": "VK",
+        "tgt": "KS"
+      },
+      {
+        "src": "LR",
+        "tgt": "RJ"
+      },
+      {
+        "src": "VKS",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "041",
+    "initial_string": "OPORKWWSZ",
+    "transitions": [
+      {
+        "src": "OR",
+        "tgt": "RKW"
+      },
+      {
+        "src": "OP",
+        "tgt": ""
+      },
+      {
+        "src": "ORKW",
+        "tgt": ""
+      },
+      {
+        "src": "WSZ",
+        "tgt": ""
+      },
+      {
+        "src": "WS",
+        "tgt": "SZ"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "042",
+    "initial_string": "EMJOTOVZVROPRGESIJEDKDQA",
+    "transitions": [
+      {
+        "src": "EM",
+        "tgt": ""
+      },
+      {
+        "src": "GESI",
+        "tgt": ""
+      },
+      {
+        "src": "GE",
+        "tgt": "ESI"
+      },
+      {
+        "src": "ROPR",
+        "tgt": ""
+      },
+      {
+        "src": "KD",
+        "tgt": "DQA"
+      },
+      {
+        "src": "JO",
+        "tgt": ""
+      },
+      {
+        "src": "TO",
+        "tgt": ""
+      },
+      {
+        "src": "KDQA",
+        "tgt": ""
+      },
+      {
+        "src": "RO",
+        "tgt": "OPR"
+      },
+      {
+        "src": "JED",
+        "tgt": ""
+      },
+      {
+        "src": "VZV",
+        "tgt": ""
+      },
+      {
+        "src": "VZ",
+        "tgt": "ZV"
+      },
+      {
+        "src": "JE",
+        "tgt": "ED"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "043",
+    "initial_string": "WEBCLLLHTCCRPRBKPFYTHAT",
+    "transitions": [
+      {
+        "src": "FY",
+        "tgt": ""
+      },
+      {
+        "src": "AT",
+        "tgt": ""
+      },
+      {
+        "src": "BCLL",
+        "tgt": ""
+      },
+      {
+        "src": "WE",
+        "tgt": ""
+      },
+      {
+        "src": "CR",
+        "tgt": "RP"
+      },
+      {
+        "src": "LH",
+        "tgt": "HTC"
+      },
+      {
+        "src": "RBKP",
+        "tgt": ""
+      },
+      {
+        "src": "CRP",
+        "tgt": ""
+      },
+      {
+        "src": "BC",
+        "tgt": "CLL"
+      },
+      {
+        "src": "TH",
+        "tgt": ""
+      },
+      {
+        "src": "RB",
+        "tgt": "BKP"
+      },
+      {
+        "src": "LHTC",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "044",
+    "initial_string": "XWOKQHKEYLXCVG",
+    "transitions": [
+      {
+        "src": "KQ",
+        "tgt": "QHK"
+      },
+      {
+        "src": "KQHK",
+        "tgt": ""
+      },
+      {
+        "src": "XC",
+        "tgt": "CVG"
+      },
+      {
+        "src": "EYL",
+        "tgt": ""
+      },
+      {
+        "src": "XCVG",
+        "tgt": ""
+      },
+      {
+        "src": "XWO",
+        "tgt": ""
+      },
+      {
+        "src": "XW",
+        "tgt": "WO"
+      },
+      {
+        "src": "EY",
+        "tgt": "YL"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "045",
+    "initial_string": "BQNXJSVGDF",
+    "transitions": [
+      {
+        "src": "NX",
+        "tgt": "XJS"
+      },
+      {
+        "src": "BQ",
+        "tgt": ""
+      },
+      {
+        "src": "VGDF",
+        "tgt": ""
+      },
+      {
+        "src": "NXJS",
+        "tgt": ""
+      },
+      {
+        "src": "VG",
+        "tgt": "GDF"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "046",
+    "initial_string": "TTLQZIZDBL",
+    "transitions": [
+      {
+        "src": "QZ",
+        "tgt": "ZIZ"
+      },
+      {
+        "src": "TT",
+        "tgt": "TL"
+      },
+      {
+        "src": "QZIZ",
+        "tgt": ""
+      },
+      {
+        "src": "TTL",
+        "tgt": ""
+      },
+      {
+        "src": "DB",
+        "tgt": "BL"
+      },
+      {
+        "src": "DBL",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "047",
+    "initial_string": "AJHWWPNPYTLVEPNY",
+    "transitions": [
+      {
+        "src": "LV",
+        "tgt": ""
+      },
+      {
+        "src": "AJ",
+        "tgt": "JH"
+      },
+      {
+        "src": "EPNY",
+        "tgt": ""
+      },
+      {
+        "src": "EP",
+        "tgt": "PNY"
+      },
+      {
+        "src": "AJH",
+        "tgt": ""
+      },
+      {
+        "src": "PYT",
+        "tgt": ""
+      },
+      {
+        "src": "WW",
+        "tgt": "WPN"
+      },
+      {
+        "src": "WWPN",
+        "tgt": ""
+      },
+      {
+        "src": "PY",
+        "tgt": "YT"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "048",
+    "initial_string": "NPJKURUQIOHSRWIPDIRR",
+    "transitions": [
+      {
+        "src": "IO",
+        "tgt": ""
+      },
+      {
+        "src": "KU",
+        "tgt": "UR"
+      },
+      {
+        "src": "NP",
+        "tgt": "PJ"
+      },
+      {
+        "src": "NPJ",
+        "tgt": ""
+      },
+      {
+        "src": "WI",
+        "tgt": "IPD"
+      },
+      {
+        "src": "IR",
+        "tgt": "RR"
+      },
+      {
+        "src": "WIPD",
+        "tgt": ""
+      },
+      {
+        "src": "IRR",
+        "tgt": ""
+      },
+      {
+        "src": "HSR",
+        "tgt": ""
+      },
+      {
+        "src": "KUR",
+        "tgt": ""
+      },
+      {
+        "src": "HS",
+        "tgt": "SR"
+      },
+      {
+        "src": "UQ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "049",
+    "initial_string": "JEITFDHUUVWAWQPEV",
+    "transitions": [
+      {
+        "src": "EV",
+        "tgt": ""
+      },
+      {
+        "src": "UVWA",
+        "tgt": ""
+      },
+      {
+        "src": "WQP",
+        "tgt": ""
+      },
+      {
+        "src": "IT",
+        "tgt": ""
+      },
+      {
+        "src": "WQ",
+        "tgt": "QP"
+      },
+      {
+        "src": "HU",
+        "tgt": ""
+      },
+      {
+        "src": "JE",
+        "tgt": ""
+      },
+      {
+        "src": "UV",
+        "tgt": "VWA"
+      },
+      {
+        "src": "FD",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "050",
+    "initial_string": "NIXFRZMHJKEFPBMJSNHT",
+    "transitions": [
+      {
+        "src": "BM",
+        "tgt": "MJ"
+      },
+      {
+        "src": "KE",
+        "tgt": "EFP"
+      },
+      {
+        "src": "SN",
+        "tgt": ""
+      },
+      {
+        "src": "XFR",
+        "tgt": ""
+      },
+      {
+        "src": "NI",
+        "tgt": ""
+      },
+      {
+        "src": "KEFP",
+        "tgt": ""
+      },
+      {
+        "src": "HT",
+        "tgt": ""
+      },
+      {
+        "src": "ZMHJ",
+        "tgt": ""
+      },
+      {
+        "src": "ZM",
+        "tgt": "MHJ"
+      },
+      {
+        "src": "XF",
+        "tgt": "FR"
+      },
+      {
+        "src": "BMJ",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "051",
+    "initial_string": "KJZJAVQ",
+    "transitions": [
+      {
+        "src": "ZJ",
+        "tgt": "JA"
+      },
+      {
+        "src": "VQ",
+        "tgt": ""
+      },
+      {
+        "src": "KJ",
+        "tgt": ""
+      },
+      {
+        "src": "ZJA",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "052",
+    "initial_string": "VTMPAFOSLUGDKU",
+    "transitions": [
+      {
+        "src": "AF",
+        "tgt": ""
+      },
+      {
+        "src": "KU",
+        "tgt": ""
+      },
+      {
+        "src": "OS",
+        "tgt": ""
+      },
+      {
+        "src": "LU",
+        "tgt": "UGD"
+      },
+      {
+        "src": "VT",
+        "tgt": "TMP"
+      },
+      {
+        "src": "VTMP",
+        "tgt": ""
+      },
+      {
+        "src": "LUGD",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "053",
+    "initial_string": "GDLPOECZBNUNAWQZTJBTQTIBO",
+    "transitions": [
+      {
+        "src": "GD",
+        "tgt": "DLP"
+      },
+      {
+        "src": "TJB",
+        "tgt": ""
+      },
+      {
+        "src": "QZ",
+        "tgt": ""
+      },
+      {
+        "src": "UNAW",
+        "tgt": ""
+      },
+      {
+        "src": "GDLP",
+        "tgt": ""
+      },
+      {
+        "src": "OE",
+        "tgt": ""
+      },
+      {
+        "src": "TQ",
+        "tgt": ""
+      },
+      {
+        "src": "TJ",
+        "tgt": "JB"
+      },
+      {
+        "src": "CZ",
+        "tgt": "ZBN"
+      },
+      {
+        "src": "TIBO",
+        "tgt": ""
+      },
+      {
+        "src": "TI",
+        "tgt": "IBO"
+      },
+      {
+        "src": "CZBN",
+        "tgt": ""
+      },
+      {
+        "src": "UN",
+        "tgt": "NAW"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "054",
+    "initial_string": "XINZO",
+    "transitions": [
+      {
+        "src": "NZ",
+        "tgt": "ZO"
+      },
+      {
+        "src": "XI",
+        "tgt": ""
+      },
+      {
+        "src": "NZO",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "055",
+    "initial_string": "JUWHULTXKMMGCLLOI",
+    "transitions": [
+      {
+        "src": "JU",
+        "tgt": "UW"
+      },
+      {
+        "src": "GC",
+        "tgt": "CLL"
+      },
+      {
+        "src": "JUW",
+        "tgt": ""
+      },
+      {
+        "src": "TX",
+        "tgt": "XK"
+      },
+      {
+        "src": "HU",
+        "tgt": "UL"
+      },
+      {
+        "src": "MM",
+        "tgt": ""
+      },
+      {
+        "src": "TXK",
+        "tgt": ""
+      },
+      {
+        "src": "GCLL",
+        "tgt": ""
+      },
+      {
+        "src": "OI",
+        "tgt": ""
+      },
+      {
+        "src": "HUL",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "056",
+    "initial_string": "SXZHZYRKURYDRLDG",
+    "transitions": [
+      {
+        "src": "ZHZY",
+        "tgt": ""
+      },
+      {
+        "src": "RL",
+        "tgt": "LDG"
+      },
+      {
+        "src": "UR",
+        "tgt": "RYD"
+      },
+      {
+        "src": "SX",
+        "tgt": ""
+      },
+      {
+        "src": "RLDG",
+        "tgt": ""
+      },
+      {
+        "src": "URYD",
+        "tgt": ""
+      },
+      {
+        "src": "RK",
+        "tgt": ""
+      },
+      {
+        "src": "ZH",
+        "tgt": "HZY"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "057",
+    "initial_string": "JTOJIHYTMXDULZHXFDBXL",
+    "transitions": [
+      {
+        "src": "JT",
+        "tgt": "TO"
+      },
+      {
+        "src": "XDU",
+        "tgt": ""
+      },
+      {
+        "src": "JTO",
+        "tgt": ""
+      },
+      {
+        "src": "JI",
+        "tgt": "IHY"
+      },
+      {
+        "src": "TM",
+        "tgt": ""
+      },
+      {
+        "src": "XL",
+        "tgt": ""
+      },
+      {
+        "src": "LZHX",
+        "tgt": ""
+      },
+      {
+        "src": "FD",
+        "tgt": "DB"
+      },
+      {
+        "src": "XD",
+        "tgt": "DU"
+      },
+      {
+        "src": "FDB",
+        "tgt": ""
+      },
+      {
+        "src": "LZ",
+        "tgt": "ZHX"
+      },
+      {
+        "src": "JIHY",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "058",
+    "initial_string": "DFGMOJUDWBKSNTVDI",
+    "transitions": [
+      {
+        "src": "SN",
+        "tgt": "NTV"
+      },
+      {
+        "src": "OJ",
+        "tgt": "JU"
+      },
+      {
+        "src": "DF",
+        "tgt": ""
+      },
+      {
+        "src": "OJU",
+        "tgt": ""
+      },
+      {
+        "src": "SNTV",
+        "tgt": ""
+      },
+      {
+        "src": "DI",
+        "tgt": ""
+      },
+      {
+        "src": "DWBK",
+        "tgt": ""
+      },
+      {
+        "src": "DW",
+        "tgt": "WBK"
+      },
+      {
+        "src": "GM",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "059",
+    "initial_string": "XBDDEYIY",
+    "transitions": [
+      {
+        "src": "XB",
+        "tgt": "BDD"
+      },
+      {
+        "src": "EY",
+        "tgt": ""
+      },
+      {
+        "src": "XBDD",
+        "tgt": ""
+      },
+      {
+        "src": "IY",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "060",
+    "initial_string": "QPNEERSP",
+    "transitions": [
+      {
+        "src": "NE",
+        "tgt": ""
+      },
+      {
+        "src": "ERSP",
+        "tgt": ""
+      },
+      {
+        "src": "ER",
+        "tgt": "RSP"
+      },
+      {
+        "src": "QP",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "061",
+    "initial_string": "FOQAOQHGKLRE",
+    "transitions": [
+      {
+        "src": "KLRE",
+        "tgt": ""
+      },
+      {
+        "src": "OQHG",
+        "tgt": ""
+      },
+      {
+        "src": "FOQA",
+        "tgt": ""
+      },
+      {
+        "src": "OQ",
+        "tgt": "QHG"
+      },
+      {
+        "src": "KL",
+        "tgt": "LRE"
+      },
+      {
+        "src": "FO",
+        "tgt": "OQA"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "062",
+    "initial_string": "WIZZDJCGDLCHWKZVY",
+    "transitions": [
+      {
+        "src": "WIZ",
+        "tgt": ""
+      },
+      {
+        "src": "ZD",
+        "tgt": "DJ"
+      },
+      {
+        "src": "ZDJ",
+        "tgt": ""
+      },
+      {
+        "src": "WK",
+        "tgt": "KZ"
+      },
+      {
+        "src": "WI",
+        "tgt": "IZ"
+      },
+      {
+        "src": "WKZ",
+        "tgt": ""
+      },
+      {
+        "src": "CG",
+        "tgt": "GDL"
+      },
+      {
+        "src": "CGDL",
+        "tgt": ""
+      },
+      {
+        "src": "CH",
+        "tgt": ""
+      },
+      {
+        "src": "VY",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "063",
+    "initial_string": "NZFBHP",
+    "transitions": [
+      {
+        "src": "NZ",
+        "tgt": "ZF"
+      },
+      {
+        "src": "NZF",
+        "tgt": ""
+      },
+      {
+        "src": "BHP",
+        "tgt": ""
+      },
+      {
+        "src": "BH",
+        "tgt": "HP"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "064",
+    "initial_string": "WSJKOJH",
+    "transitions": [
+      {
+        "src": "WS",
+        "tgt": ""
+      },
+      {
+        "src": "JKO",
+        "tgt": ""
+      },
+      {
+        "src": "JH",
+        "tgt": ""
+      },
+      {
+        "src": "JK",
+        "tgt": "KO"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "065",
+    "initial_string": "RDZKOJDNNBDUNDDYIKTHIVMOMA",
+    "transitions": [
+      {
+        "src": "MO",
+        "tgt": "OMA"
+      },
+      {
+        "src": "RD",
+        "tgt": "DZK"
+      },
+      {
+        "src": "TH",
+        "tgt": "HIV"
+      },
+      {
+        "src": "DY",
+        "tgt": "YIK"
+      },
+      {
+        "src": "NNBD",
+        "tgt": ""
+      },
+      {
+        "src": "UND",
+        "tgt": ""
+      },
+      {
+        "src": "OJ",
+        "tgt": "JD"
+      },
+      {
+        "src": "RDZK",
+        "tgt": ""
+      },
+      {
+        "src": "DYIK",
+        "tgt": ""
+      },
+      {
+        "src": "NN",
+        "tgt": "NBD"
+      },
+      {
+        "src": "MOMA",
+        "tgt": ""
+      },
+      {
+        "src": "OJD",
+        "tgt": ""
+      },
+      {
+        "src": "UN",
+        "tgt": "ND"
+      },
+      {
+        "src": "THIV",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "066",
+    "initial_string": "NSDRACAIDFNPMSSNOMJYLIJUS",
+    "transitions": [
+      {
+        "src": "CA",
+        "tgt": "AID"
+      },
+      {
+        "src": "IJUS",
+        "tgt": ""
+      },
+      {
+        "src": "NS",
+        "tgt": ""
+      },
+      {
+        "src": "MJYL",
+        "tgt": ""
+      },
+      {
+        "src": "IJ",
+        "tgt": "JUS"
+      },
+      {
+        "src": "CAID",
+        "tgt": ""
+      },
+      {
+        "src": "DRA",
+        "tgt": ""
+      },
+      {
+        "src": "FNPM",
+        "tgt": ""
+      },
+      {
+        "src": "DR",
+        "tgt": "RA"
+      },
+      {
+        "src": "FN",
+        "tgt": "NPM"
+      },
+      {
+        "src": "SSNO",
+        "tgt": ""
+      },
+      {
+        "src": "MJ",
+        "tgt": "JYL"
+      },
+      {
+        "src": "SS",
+        "tgt": "SNO"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "067",
+    "initial_string": "RMJYUHOOVYUBYCRTF",
+    "transitions": [
+      {
+        "src": "VYU",
+        "tgt": ""
+      },
+      {
+        "src": "HOO",
+        "tgt": ""
+      },
+      {
+        "src": "RTF",
+        "tgt": ""
+      },
+      {
+        "src": "JY",
+        "tgt": "YU"
+      },
+      {
+        "src": "HO",
+        "tgt": "OO"
+      },
+      {
+        "src": "RM",
+        "tgt": ""
+      },
+      {
+        "src": "JYU",
+        "tgt": ""
+      },
+      {
+        "src": "BY",
+        "tgt": "YC"
+      },
+      {
+        "src": "RT",
+        "tgt": "TF"
+      },
+      {
+        "src": "BYC",
+        "tgt": ""
+      },
+      {
+        "src": "VY",
+        "tgt": "YU"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "068",
+    "initial_string": "QBIMRAOKYMFZHBTONSYKV",
+    "transitions": [
+      {
+        "src": "KY",
+        "tgt": ""
+      },
+      {
+        "src": "MF",
+        "tgt": "FZ"
+      },
+      {
+        "src": "IMR",
+        "tgt": ""
+      },
+      {
+        "src": "HBT",
+        "tgt": ""
+      },
+      {
+        "src": "IM",
+        "tgt": "MR"
+      },
+      {
+        "src": "HB",
+        "tgt": "BT"
+      },
+      {
+        "src": "ON",
+        "tgt": "NSY"
+      },
+      {
+        "src": "MFZ",
+        "tgt": ""
+      },
+      {
+        "src": "AO",
+        "tgt": ""
+      },
+      {
+        "src": "KV",
+        "tgt": ""
+      },
+      {
+        "src": "ONSY",
+        "tgt": ""
+      },
+      {
+        "src": "QB",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "069",
+    "initial_string": "NXDNFCEQSAUOTPQVNC",
+    "transitions": [
+      {
+        "src": "NX",
+        "tgt": "XDN"
+      },
+      {
+        "src": "VNC",
+        "tgt": ""
+      },
+      {
+        "src": "PQ",
+        "tgt": ""
+      },
+      {
+        "src": "NXDN",
+        "tgt": ""
+      },
+      {
+        "src": "UO",
+        "tgt": "OT"
+      },
+      {
+        "src": "FC",
+        "tgt": "CE"
+      },
+      {
+        "src": "UOT",
+        "tgt": ""
+      },
+      {
+        "src": "QS",
+        "tgt": "SA"
+      },
+      {
+        "src": "QSA",
+        "tgt": ""
+      },
+      {
+        "src": "FCE",
+        "tgt": ""
+      },
+      {
+        "src": "VN",
+        "tgt": "NC"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "070",
+    "initial_string": "YHSGJBD",
+    "transitions": [
+      {
+        "src": "YH",
+        "tgt": "HS"
+      },
+      {
+        "src": "GJ",
+        "tgt": ""
+      },
+      {
+        "src": "YHS",
+        "tgt": ""
+      },
+      {
+        "src": "BD",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "071",
+    "initial_string": "URQYPFDLZKOMUVTRWCLSXCXFNE",
+    "transitions": [
+      {
+        "src": "LZ",
+        "tgt": ""
+      },
+      {
+        "src": "WC",
+        "tgt": "CLS"
+      },
+      {
+        "src": "XC",
+        "tgt": ""
+      },
+      {
+        "src": "WCLS",
+        "tgt": ""
+      },
+      {
+        "src": "URQY",
+        "tgt": ""
+      },
+      {
+        "src": "PF",
+        "tgt": "FD"
+      },
+      {
+        "src": "UVTR",
+        "tgt": ""
+      },
+      {
+        "src": "KO",
+        "tgt": "OM"
+      },
+      {
+        "src": "UV",
+        "tgt": "VTR"
+      },
+      {
+        "src": "KOM",
+        "tgt": ""
+      },
+      {
+        "src": "PFD",
+        "tgt": ""
+      },
+      {
+        "src": "XFNE",
+        "tgt": ""
+      },
+      {
+        "src": "UR",
+        "tgt": "RQY"
+      },
+      {
+        "src": "XF",
+        "tgt": "FNE"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "072",
+    "initial_string": "ORSKVFBLSZYBYHETZ",
+    "transitions": [
+      {
+        "src": "SKV",
+        "tgt": ""
+      },
+      {
+        "src": "FBLS",
+        "tgt": ""
+      },
+      {
+        "src": "OR",
+        "tgt": ""
+      },
+      {
+        "src": "HE",
+        "tgt": ""
+      },
+      {
+        "src": "FB",
+        "tgt": "BLS"
+      },
+      {
+        "src": "ZY",
+        "tgt": "YBY"
+      },
+      {
+        "src": "ZYBY",
+        "tgt": ""
+      },
+      {
+        "src": "TZ",
+        "tgt": ""
+      },
+      {
+        "src": "SK",
+        "tgt": "KV"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "073",
+    "initial_string": "ENDZVTMSLVGJEWTVKGB",
+    "transitions": [
+      {
+        "src": "MSL",
+        "tgt": ""
+      },
+      {
+        "src": "EWT",
+        "tgt": ""
+      },
+      {
+        "src": "GB",
+        "tgt": ""
+      },
+      {
+        "src": "VGJ",
+        "tgt": ""
+      },
+      {
+        "src": "MS",
+        "tgt": "SL"
+      },
+      {
+        "src": "VK",
+        "tgt": ""
+      },
+      {
+        "src": "DZVT",
+        "tgt": ""
+      },
+      {
+        "src": "EW",
+        "tgt": "WT"
+      },
+      {
+        "src": "DZ",
+        "tgt": "ZVT"
+      },
+      {
+        "src": "EN",
+        "tgt": ""
+      },
+      {
+        "src": "VG",
+        "tgt": "GJ"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "074",
+    "initial_string": "DZVTPUVHDNKHOWXQL",
+    "transitions": [
+      {
+        "src": "WX",
+        "tgt": "XQL"
+      },
+      {
+        "src": "VT",
+        "tgt": ""
+      },
+      {
+        "src": "NKHO",
+        "tgt": ""
+      },
+      {
+        "src": "PU",
+        "tgt": "UV"
+      },
+      {
+        "src": "HD",
+        "tgt": ""
+      },
+      {
+        "src": "WXQL",
+        "tgt": ""
+      },
+      {
+        "src": "PUV",
+        "tgt": ""
+      },
+      {
+        "src": "DZ",
+        "tgt": ""
+      },
+      {
+        "src": "NK",
+        "tgt": "KHO"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "075",
+    "initial_string": "JTMHSXOZNKGI",
+    "transitions": [
+      {
+        "src": "HS",
+        "tgt": ""
+      },
+      {
+        "src": "XO",
+        "tgt": "OZ"
+      },
+      {
+        "src": "JT",
+        "tgt": "TM"
+      },
+      {
+        "src": "NK",
+        "tgt": "KGI"
+      },
+      {
+        "src": "XOZ",
+        "tgt": ""
+      },
+      {
+        "src": "NKGI",
+        "tgt": ""
+      },
+      {
+        "src": "JTM",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "076",
+    "initial_string": "RPWUPOMWI",
+    "transitions": [
+      {
+        "src": "RP",
+        "tgt": "PW"
+      },
+      {
+        "src": "OMWI",
+        "tgt": ""
+      },
+      {
+        "src": "OM",
+        "tgt": "MWI"
+      },
+      {
+        "src": "UP",
+        "tgt": ""
+      },
+      {
+        "src": "RPW",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "077",
+    "initial_string": "SSXOUMQINMCMVXJBWTGY",
+    "transitions": [
+      {
+        "src": "SS",
+        "tgt": ""
+      },
+      {
+        "src": "MV",
+        "tgt": "VXJ"
+      },
+      {
+        "src": "BW",
+        "tgt": "WT"
+      },
+      {
+        "src": "BWT",
+        "tgt": ""
+      },
+      {
+        "src": "XO",
+        "tgt": "OU"
+      },
+      {
+        "src": "XOU",
+        "tgt": ""
+      },
+      {
+        "src": "MQ",
+        "tgt": "QI"
+      },
+      {
+        "src": "NMC",
+        "tgt": ""
+      },
+      {
+        "src": "MQI",
+        "tgt": ""
+      },
+      {
+        "src": "MVXJ",
+        "tgt": ""
+      },
+      {
+        "src": "GY",
+        "tgt": ""
+      },
+      {
+        "src": "NM",
+        "tgt": "MC"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "078",
+    "initial_string": "QMEUDOXOYNVBBADQ",
+    "transitions": [
+      {
+        "src": "BADQ",
+        "tgt": ""
+      },
+      {
+        "src": "YNVB",
+        "tgt": ""
+      },
+      {
+        "src": "XO",
+        "tgt": ""
+      },
+      {
+        "src": "YN",
+        "tgt": "NVB"
+      },
+      {
+        "src": "QMEU",
+        "tgt": ""
+      },
+      {
+        "src": "BA",
+        "tgt": "ADQ"
+      },
+      {
+        "src": "QM",
+        "tgt": "MEU"
+      },
+      {
+        "src": "DO",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "079",
+    "initial_string": "QYXRAOASZAVR",
+    "transitions": [
+      {
+        "src": "ZA",
+        "tgt": "AVR"
+      },
+      {
+        "src": "ZAVR",
+        "tgt": ""
+      },
+      {
+        "src": "AS",
+        "tgt": ""
+      },
+      {
+        "src": "QY",
+        "tgt": "YXR"
+      },
+      {
+        "src": "QYXR",
+        "tgt": ""
+      },
+      {
+        "src": "AO",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "080",
+    "initial_string": "NVGKYLG",
+    "transitions": [
+      {
+        "src": "NV",
+        "tgt": "VGK"
+      },
+      {
+        "src": "NVGK",
+        "tgt": ""
+      },
+      {
+        "src": "YL",
+        "tgt": "LG"
+      },
+      {
+        "src": "YLG",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "081",
+    "initial_string": "CJMQSCQIZXXFWMBBYOAYIPT",
+    "transitions": [
+      {
+        "src": "CJ",
+        "tgt": ""
+      },
+      {
+        "src": "MBBY",
+        "tgt": ""
+      },
+      {
+        "src": "PT",
+        "tgt": ""
+      },
+      {
+        "src": "XX",
+        "tgt": ""
+      },
+      {
+        "src": "MB",
+        "tgt": "BBY"
+      },
+      {
+        "src": "QI",
+        "tgt": "IZ"
+      },
+      {
+        "src": "MQ",
+        "tgt": "QSC"
+      },
+      {
+        "src": "QIZ",
+        "tgt": ""
+      },
+      {
+        "src": "FW",
+        "tgt": ""
+      },
+      {
+        "src": "MQSC",
+        "tgt": ""
+      },
+      {
+        "src": "OAYI",
+        "tgt": ""
+      },
+      {
+        "src": "OA",
+        "tgt": "AYI"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "082",
+    "initial_string": "URNZCGITKUAHMJY",
+    "transitions": [
+      {
+        "src": "CG",
+        "tgt": ""
+      },
+      {
+        "src": "MJ",
+        "tgt": "JY"
+      },
+      {
+        "src": "UR",
+        "tgt": ""
+      },
+      {
+        "src": "IT",
+        "tgt": ""
+      },
+      {
+        "src": "KUAH",
+        "tgt": ""
+      },
+      {
+        "src": "MJY",
+        "tgt": ""
+      },
+      {
+        "src": "NZ",
+        "tgt": ""
+      },
+      {
+        "src": "KU",
+        "tgt": "UAH"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "083",
+    "initial_string": "GJEKJC",
+    "transitions": [
+      {
+        "src": "GJ",
+        "tgt": ""
+      },
+      {
+        "src": "EK",
+        "tgt": "KJC"
+      },
+      {
+        "src": "EKJC",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "084",
+    "initial_string": "DEONCJCUWAKSO",
+    "transitions": [
+      {
+        "src": "DE",
+        "tgt": ""
+      },
+      {
+        "src": "UWAK",
+        "tgt": ""
+      },
+      {
+        "src": "JC",
+        "tgt": ""
+      },
+      {
+        "src": "UW",
+        "tgt": "WAK"
+      },
+      {
+        "src": "ON",
+        "tgt": "NC"
+      },
+      {
+        "src": "SO",
+        "tgt": ""
+      },
+      {
+        "src": "ONC",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "085",
+    "initial_string": "HMBHHU",
+    "transitions": [
+      {
+        "src": "HH",
+        "tgt": "HU"
+      },
+      {
+        "src": "HMB",
+        "tgt": ""
+      },
+      {
+        "src": "HHU",
+        "tgt": ""
+      },
+      {
+        "src": "HM",
+        "tgt": "MB"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "086",
+    "initial_string": "PFCAKVUIIZDIYMEZHSZUIVKC",
+    "transitions": [
+      {
+        "src": "ZUI",
+        "tgt": ""
+      },
+      {
+        "src": "ZH",
+        "tgt": "HS"
+      },
+      {
+        "src": "ME",
+        "tgt": ""
+      },
+      {
+        "src": "UI",
+        "tgt": "II"
+      },
+      {
+        "src": "ZU",
+        "tgt": "UI"
+      },
+      {
+        "src": "AKV",
+        "tgt": ""
+      },
+      {
+        "src": "ZHS",
+        "tgt": ""
+      },
+      {
+        "src": "VKC",
+        "tgt": ""
+      },
+      {
+        "src": "PFC",
+        "tgt": ""
+      },
+      {
+        "src": "ZD",
+        "tgt": "DIY"
+      },
+      {
+        "src": "UII",
+        "tgt": ""
+      },
+      {
+        "src": "PF",
+        "tgt": "FC"
+      },
+      {
+        "src": "VK",
+        "tgt": "KC"
+      },
+      {
+        "src": "ZDIY",
+        "tgt": ""
+      },
+      {
+        "src": "AK",
+        "tgt": "KV"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "087",
+    "initial_string": "DHGSULPKNXRAZSVQCTR",
+    "transitions": [
+      {
+        "src": "DH",
+        "tgt": "HG"
+      },
+      {
+        "src": "KN",
+        "tgt": "NXR"
+      },
+      {
+        "src": "SU",
+        "tgt": ""
+      },
+      {
+        "src": "AZ",
+        "tgt": "ZSV"
+      },
+      {
+        "src": "KNXR",
+        "tgt": ""
+      },
+      {
+        "src": "QC",
+        "tgt": "CTR"
+      },
+      {
+        "src": "AZSV",
+        "tgt": ""
+      },
+      {
+        "src": "DHG",
+        "tgt": ""
+      },
+      {
+        "src": "LP",
+        "tgt": ""
+      },
+      {
+        "src": "QCTR",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "088",
+    "initial_string": "FTOOLKU",
+    "transitions": [
+      {
+        "src": "FT",
+        "tgt": "TO"
+      },
+      {
+        "src": "FTO",
+        "tgt": ""
+      },
+      {
+        "src": "OL",
+        "tgt": "LKU"
+      },
+      {
+        "src": "OLKU",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "089",
+    "initial_string": "KZDDILFJCSIHV",
+    "transitions": [
+      {
+        "src": "IHV",
+        "tgt": ""
+      },
+      {
+        "src": "KZ",
+        "tgt": "ZD"
+      },
+      {
+        "src": "DI",
+        "tgt": "ILF"
+      },
+      {
+        "src": "IH",
+        "tgt": "HV"
+      },
+      {
+        "src": "JC",
+        "tgt": "CS"
+      },
+      {
+        "src": "JCS",
+        "tgt": ""
+      },
+      {
+        "src": "KZD",
+        "tgt": ""
+      },
+      {
+        "src": "DILF",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "090",
+    "initial_string": "EOYGQERAPFLAFHVBCWJF",
+    "transitions": [
+      {
+        "src": "VB",
+        "tgt": "BCW"
+      },
+      {
+        "src": "EOYG",
+        "tgt": ""
+      },
+      {
+        "src": "APF",
+        "tgt": ""
+      },
+      {
+        "src": "AP",
+        "tgt": "PF"
+      },
+      {
+        "src": "EO",
+        "tgt": "OYG"
+      },
+      {
+        "src": "LAFH",
+        "tgt": ""
+      },
+      {
+        "src": "LA",
+        "tgt": "AFH"
+      },
+      {
+        "src": "JF",
+        "tgt": ""
+      },
+      {
+        "src": "QE",
+        "tgt": "ER"
+      },
+      {
+        "src": "VBCW",
+        "tgt": ""
+      },
+      {
+        "src": "QER",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "091",
+    "initial_string": "QVSXPRDHEDKPOEQS",
+    "transitions": [
+      {
+        "src": "QVS",
+        "tgt": ""
+      },
+      {
+        "src": "QV",
+        "tgt": "VS"
+      },
+      {
+        "src": "XP",
+        "tgt": "PR"
+      },
+      {
+        "src": "EQS",
+        "tgt": ""
+      },
+      {
+        "src": "XPR",
+        "tgt": ""
+      },
+      {
+        "src": "DH",
+        "tgt": "HE"
+      },
+      {
+        "src": "DKPO",
+        "tgt": ""
+      },
+      {
+        "src": "EQ",
+        "tgt": "QS"
+      },
+      {
+        "src": "DK",
+        "tgt": "KPO"
+      },
+      {
+        "src": "DHE",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "092",
+    "initial_string": "YMFZNMMSLEATHHHUOUOCC",
+    "transitions": [
+      {
+        "src": "HU",
+        "tgt": "UOU"
+      },
+      {
+        "src": "YM",
+        "tgt": "MF"
+      },
+      {
+        "src": "MSLE",
+        "tgt": ""
+      },
+      {
+        "src": "AT",
+        "tgt": "THH"
+      },
+      {
+        "src": "ATHH",
+        "tgt": ""
+      },
+      {
+        "src": "ZNM",
+        "tgt": ""
+      },
+      {
+        "src": "HUOU",
+        "tgt": ""
+      },
+      {
+        "src": "ZN",
+        "tgt": "NM"
+      },
+      {
+        "src": "YMF",
+        "tgt": ""
+      },
+      {
+        "src": "OC",
+        "tgt": "CC"
+      },
+      {
+        "src": "OCC",
+        "tgt": ""
+      },
+      {
+        "src": "MS",
+        "tgt": "SLE"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "093",
+    "initial_string": "GWCUGPJSQQU",
+    "transitions": [
+      {
+        "src": "GW",
+        "tgt": "WC"
+      },
+      {
+        "src": "PJ",
+        "tgt": "JSQ"
+      },
+      {
+        "src": "QU",
+        "tgt": ""
+      },
+      {
+        "src": "PJSQ",
+        "tgt": ""
+      },
+      {
+        "src": "GWC",
+        "tgt": ""
+      },
+      {
+        "src": "UG",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "094",
+    "initial_string": "ISOYNVDTKZWSDSVKDQQLQW",
+    "transitions": [
+      {
+        "src": "LQ",
+        "tgt": "QW"
+      },
+      {
+        "src": "LQW",
+        "tgt": ""
+      },
+      {
+        "src": "VD",
+        "tgt": "DTK"
+      },
+      {
+        "src": "IS",
+        "tgt": ""
+      },
+      {
+        "src": "VDTK",
+        "tgt": ""
+      },
+      {
+        "src": "KD",
+        "tgt": "DQQ"
+      },
+      {
+        "src": "ZW",
+        "tgt": ""
+      },
+      {
+        "src": "SV",
+        "tgt": ""
+      },
+      {
+        "src": "SD",
+        "tgt": ""
+      },
+      {
+        "src": "OY",
+        "tgt": "YN"
+      },
+      {
+        "src": "KDQQ",
+        "tgt": ""
+      },
+      {
+        "src": "OYN",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "095",
+    "initial_string": "RJBNZVGVIDWUXBQAYEAYF",
+    "transitions": [
+      {
+        "src": "DWUX",
+        "tgt": ""
+      },
+      {
+        "src": "ZV",
+        "tgt": ""
+      },
+      {
+        "src": "AYF",
+        "tgt": ""
+      },
+      {
+        "src": "RJ",
+        "tgt": "JBN"
+      },
+      {
+        "src": "GV",
+        "tgt": "VI"
+      },
+      {
+        "src": "AYE",
+        "tgt": ""
+      },
+      {
+        "src": "RJBN",
+        "tgt": ""
+      },
+      {
+        "src": "DW",
+        "tgt": "WUX"
+      },
+      {
+        "src": "AY",
+        "tgt": "YE"
+      },
+      {
+        "src": "BQ",
+        "tgt": ""
+      },
+      {
+        "src": "GVI",
+        "tgt": ""
+      },
+      {
+        "src": "AY",
+        "tgt": "YF"
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "096",
+    "initial_string": "BQSGRSFCFRASZKMFSCJHJ",
+    "transitions": [
+      {
+        "src": "FR",
+        "tgt": "RAS"
+      },
+      {
+        "src": "JHJ",
+        "tgt": ""
+      },
+      {
+        "src": "SC",
+        "tgt": ""
+      },
+      {
+        "src": "FRAS",
+        "tgt": ""
+      },
+      {
+        "src": "SG",
+        "tgt": "GRS"
+      },
+      {
+        "src": "MF",
+        "tgt": ""
+      },
+      {
+        "src": "ZK",
+        "tgt": ""
+      },
+      {
+        "src": "BQ",
+        "tgt": ""
+      },
+      {
+        "src": "SGRS",
+        "tgt": ""
+      },
+      {
+        "src": "JH",
+        "tgt": "HJ"
+      },
+      {
+        "src": "FC",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "097",
+    "initial_string": "XQWCCPJIDHGPPURWWFPEHBX",
+    "transitions": [
+      {
+        "src": "WC",
+        "tgt": "CC"
+      },
+      {
+        "src": "PJ",
+        "tgt": ""
+      },
+      {
+        "src": "ID",
+        "tgt": "DH"
+      },
+      {
+        "src": "PU",
+        "tgt": "URW"
+      },
+      {
+        "src": "XQ",
+        "tgt": ""
+      },
+      {
+        "src": "GP",
+        "tgt": ""
+      },
+      {
+        "src": "PURW",
+        "tgt": ""
+      },
+      {
+        "src": "WF",
+        "tgt": "FPE"
+      },
+      {
+        "src": "HB",
+        "tgt": "BX"
+      },
+      {
+        "src": "WCC",
+        "tgt": ""
+      },
+      {
+        "src": "WFPE",
+        "tgt": ""
+      },
+      {
+        "src": "HBX",
+        "tgt": ""
+      },
+      {
+        "src": "IDH",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "problem_id": "098",
+    "initial_string": "KOEMABFXY",
+    "transitions": [
+      {
+        "src": "KOEM",
+        "tgt": ""
+      },
+      {
+        "src": "AB",
+        "tgt": ""
+      },
+      {
+        "src": "FX",
+        "tgt": "XY"
+      },
+      {
+        "src": "FXY",
+        "tgt": ""
+      },
+      {
+        "src": "KO",
+        "tgt": "OEM"
+      }
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "problem_id": "099",
+    "initial_string": "CNQCCXNKTQQISWBYD",
+    "transitions": [
+      {
+        "src": "CC",
+        "tgt": "CX"
+      },
+      {
+        "src": "NK",
+        "tgt": ""
+      },
+      {
+        "src": "TQQI",
+        "tgt": ""
+      },
+      {
+        "src": "TQ",
+        "tgt": "QQI"
+      },
+      {
+        "src": "CCX",
+        "tgt": ""
+      },
+      {
+        "src": "CN",
+        "tgt": "NQ"
+      },
+      {
+        "src": "YD",
+        "tgt": ""
+      },
+      {
+        "src": "SWB",
+        "tgt": ""
+      },
+      {
+        "src": "CNQ",
+        "tgt": ""
+      },
+      {
+        "src": "SW",
+        "tgt": "WB"
+      }
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "problem_id": "H01",
+    "initial_string": "ABCFK",
+    "transitions": [
+      {
+        "src": "ABC",
+        "tgt": ""
+      },
+      {
+        "src": "ABC",
+        "tgt": "QTWX"
+      },
+      {
+        "src": "WX",
+        "tgt": "LC"
+      },
+      {
+        "src": "WX",
+        "tgt": ""
+      },
+      {
+        "src": "TL",
+        "tgt": ""
+      },
+      {
+        "src": "CF",
+        "tgt": ""
+      },
+      {
+        "src": "QC",
+        "tgt": ""
+      },
+      {
+        "src": "BC",
+        "tgt": ""
+      },
+      {
+        "src": "QK",
+        "tgt": ""
+      },
+      {
+        "src": "FK",
+        "tgt": "T"
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H02",
+    "initial_string": "ABXKTF",
+    "transitions": [
+      {
+        "src": "AB",
+        "tgt": ""
+      },
+      {
+        "src": "BX",
+        "tgt": "KT"
+      },
+      {
+        "src": "K",
+        "tgt": ""
+      },
+      {
+        "src": "XT",
+        "tgt": ""
+      },
+      {
+        "src": "BT",
+        "tgt": "AF"
+      },
+      {
+        "src": "TK",
+        "tgt": ""
+      },
+      {
+        "src": "KTF",
+        "tgt": "AB"
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H03",
+    "initial_string": "XATCFLMODKF",
+    "transitions": [
+      {
+        "src": "XATCF",
+        "tgt": ""
+      },
+      {
+        "src": "FL",
+        "tgt": "XNO"
+      },
+      {
+        "src": "OM",
+        "tgt": ""
+      },
+      {
+        "src": "NOK",
+        "tgt": ""
+      },
+      {
+        "src": "CXF",
+        "tgt": ""
+      },
+      {
+        "src": "CXF",
+        "tgt": "LL"
+      },
+      {
+        "src": "TL",
+        "tgt": ""
+      },
+      {
+        "src": "AL",
+        "tgt": ""
+      },
+      {
+        "src": "TL",
+        "tgt": "Z"
+      },
+      {
+        "src": "X",
+        "tgt": ""
+      },
+      {
+        "src": "LL",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H04",
+    "initial_string": "LLLKLM",
+    "transitions": [
+      {
+        "src": "LL",
+        "tgt": ""
+      },
+      {
+        "src": "LK",
+        "tgt": ""
+      },
+      {
+        "src": "LL",
+        "tgt": "LLL"
+      },
+      {
+        "src": "LLLL",
+        "tgt": "KKL"
+      },
+      {
+        "src": "LKL",
+        "tgt": ""
+      },
+      {
+        "src": "KM",
+        "tgt": "L"
+      },
+      {
+        "src": "KM",
+        "tgt": ""
+      },
+      {
+        "src": "KL",
+        "tgt": "LK"
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H05",
+    "initial_string": "ZABNFLTROA",
+    "transitions": [
+      {
+        "src": "NFL",
+        "tgt": ""
+      },
+      {
+        "src": "NFL",
+        "tgt": "T"
+      },
+      {
+        "src": "AB",
+        "tgt": ""
+      },
+      {
+        "src": "AB",
+        "tgt": "R"
+      },
+      {
+        "src": "RT",
+        "tgt": "TR"
+      },
+      {
+        "src": "TR",
+        "tgt": ""
+      },
+      {
+        "src": "ZO",
+        "tgt": ""
+      },
+      {
+        "src": "OA",
+        "tgt": "RT"
+      },
+      {
+        "src": "Z",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H06",
+    "initial_string": "ASTFLMKFOTR",
+    "transitions": [
+      {
+        "src": "AST",
+        "tgt": ""
+      },
+      {
+        "src": "ASTF",
+        "tgt": "KLM"
+      },
+      {
+        "src": "KLML",
+        "tgt": ""
+      },
+      {
+        "src": "ASTF",
+        "tgt": "Q"
+      },
+      {
+        "src": "QK",
+        "tgt": "F"
+      },
+      {
+        "src": "LM",
+        "tgt": "QK"
+      },
+      {
+        "src": "FFF",
+        "tgt": ""
+      },
+      {
+        "src": "FO",
+        "tgt": ""
+      },
+      {
+        "src": "FT",
+        "tgt": "FR"
+      },
+      {
+        "src": "FR",
+        "tgt": "FFF"
+      },
+      {
+        "src": "AS",
+        "tgt": ""
+      },
+      {
+        "src": "A",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H07",
+    "initial_string": "LKFTNTBOORK",
+    "transitions": [
+      {
+        "src": "TNT",
+        "tgt": ""
+      },
+      {
+        "src": "LKF",
+        "tgt": ""
+      },
+      {
+        "src": "BOO",
+        "tgt": ""
+      },
+      {
+        "src": "LK",
+        "tgt": "RT"
+      },
+      {
+        "src": "RT",
+        "tgt": ""
+      },
+      {
+        "src": "KF",
+        "tgt": "T"
+      },
+      {
+        "src": "T",
+        "tgt": "RF"
+      },
+      {
+        "src": "LR",
+        "tgt": "FT"
+      },
+      {
+        "src": "FT",
+        "tgt": "N"
+      },
+      {
+        "src": "NN",
+        "tgt": "K"
+      },
+      {
+        "src": "KT",
+        "tgt": ""
+      },
+      {
+        "src": "NB",
+        "tgt": "OO"
+      },
+      {
+        "src": "OO",
+        "tgt": "OO"
+      },
+      {
+        "src": "OO",
+        "tgt": "RK"
+      },
+      {
+        "src": "RK",
+        "tgt": "NNN"
+      },
+      {
+        "src": "OR",
+        "tgt": "OK"
+      },
+      {
+        "src": "OK",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H08",
+    "initial_string": "SBIRBIKLM",
+    "transitions": [
+      {
+        "src": "RBI",
+        "tgt": ""
+      },
+      {
+        "src": "KLM",
+        "tgt": ""
+      },
+      {
+        "src": "IRB",
+        "tgt": "NTRQ"
+      },
+      {
+        "src": "QI",
+        "tgt": ""
+      },
+      {
+        "src": "RKL",
+        "tgt": ""
+      },
+      {
+        "src": "SBN",
+        "tgt": ""
+      },
+      {
+        "src": "SB",
+        "tgt": "NT"
+      },
+      {
+        "src": "NT",
+        "tgt": ""
+      },
+      {
+        "src": "M",
+        "tgt": "RKL"
+      },
+      {
+        "src": "QI",
+        "tgt": "QI"
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H09",
+    "initial_string": "RAFEISGOOD",
+    "transitions": [
+      {
+        "src": "FE",
+        "tgt": ""
+      },
+      {
+        "src": "RA",
+        "tgt": ""
+      },
+      {
+        "src": "EI",
+        "tgt": "EE"
+      },
+      {
+        "src": "ESG",
+        "tgt": ""
+      },
+      {
+        "src": "EOO",
+        "tgt": ""
+      },
+      {
+        "src": "EOD",
+        "tgt": "D"
+      },
+      {
+        "src": "DD",
+        "tgt": "FE"
+      },
+      {
+        "src": "AF",
+        "tgt": "DD"
+      },
+      {
+        "src": "R",
+        "tgt": "AF"
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  },
+  {
+    "problem_id": "H10",
+    "initial_string": "PALFREEPL",
+    "transitions": [
+      {
+        "src": "A",
+        "tgt": ""
+      },
+      {
+        "src": "PL",
+        "tgt": ""
+      },
+      {
+        "src": "EP",
+        "tgt": "P"
+      },
+      {
+        "src": "RP",
+        "tgt": "F"
+      },
+      {
+        "src": "FF",
+        "tgt": "A"
+      },
+      {
+        "src": "ALL",
+        "tgt": "FF"
+      },
+      {
+        "src": "P",
+        "tgt": "ALL"
+      },
+      {
+        "src": "LF",
+        "tgt": ""
+      }
+    ],
+    "difficulty": "hard",
+    "source": "manual"
+  }
+]

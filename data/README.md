@@ -1,0 +1,25 @@
+## Dataset Construction
+
+We generate sed-style puzzles by reverse-constructing solutions to guarantee solvability.
+Instead of randomly sampling transitions, we first construct a valid sequence of deletions
+from an empty string and then hide the solution.
+
+### Difficulty Levels
+- Easy: 2–3 transitions, non-overlapping substrings
+- Medium: 4–6 transitions
+- Hard: 6–8 transitions, longer dependency chains
+
+### Design Rationale
+- Ensuring solvability avoids penalizing models for invalid data.
+- Limiting dataset size to 100 prioritizes quality and analysis depth.
+- Transitions are shuffled to prevent trivial greedy solutions.
+
+
+### Distractor Transitions
+In addition to solution-preserving deletion rules, we introduce distractor
+transitions that partially rewrite substrings instead of deleting them.
+These transitions are valid but can lead to loops or dead ends if applied
+greedily.
+
+This design forces models to reason about transition ordering rather than
+locally optimal actions.
