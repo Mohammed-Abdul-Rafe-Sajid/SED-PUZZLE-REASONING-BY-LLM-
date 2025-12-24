@@ -1,0 +1,79 @@
+[
+{
+  "problem_id": "044",
+  "difficulty": "medium",
+  "predicted_solution": [5,1,4,3],
+  "solved": true,
+  "final_string": ""
+},
+{
+  "problem_id": "H02",
+  "difficulty": "hard",
+  "predicted_solution": [1, 5, 6, 0],
+  "solved": true,
+  "model": "Gemini-3",
+  "final_string": ""
+},
+{
+  "problem_id": "H02",
+  "difficulty": "hard",
+  "predicted_solution": [6,1,5,0],
+  "solved": false,
+  "model": "GPT Go",
+  "final_string": "AKTB",
+  "failure_reason": "Transition 5 (TK → '') not applicable confused -> TK for KT"
+},
+{
+  "problem_id": "H04",
+  "difficulty": "hard",
+  "predicted_solution": [7, 6, 0, 0],
+  "solved": true,
+  "model": "Gemini-3",
+  "final_string": ""
+},
+{
+  "problem_id": "H04",
+  "difficulty": "hard",
+  "predicted_solution": [7, 6, 0],
+  "solved": false,
+  "model": "GPT Go",
+  "final_string": "LL",
+  "failure_reason": "Transitions Completed, with string non empty -> forgot to apply ) again"
+},
+{
+  "problem_id": "H08",
+  "difficulty": "hard",
+  "predicted_solution": [6,7,2,3,4,7,8,4],
+  "solved": true,
+  "model": "Gemini-3",
+  "final_string": ""
+},
+{
+  "problem_id": "H08",
+  "difficulty": "hard",
+  "predicted_solution": [],
+  "solved": false,
+  "model": "GPT Go",
+  "final_string": "SBIRBIKLM",
+  "failure_reason":"Gave no solution, (empty list) immediately"
+},
+{
+  "problem_id": "H09",
+  "difficulty": "hard",
+  "model": "Gemini-3",
+  "predicted_solution": [7, 2, 3, 4, 6, 0, 6, 0, 8, 7, 6, 0],
+  "solved": false,
+  "final_string": "RD",
+  "failure_reason": "Transition 6 (DD → 'FE') not applicable"
+},
+{
+  "problem_id": "H09",
+  "difficulty": "hard",
+  "model": "GPT Go",
+  "predicted_solution": [1, 2, 3, 5, 6, 0, 0],
+  "solved": false,
+  "final_string": "F",
+  "failure_reason": "Transition 0 (FE → '') not applicable"
+}
+
+]

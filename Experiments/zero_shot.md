@@ -1,10 +1,11 @@
-## Zero-shot Prompting
+# Zero-shot Prompting
+### Too Long? (Read Key Insight at the bottom to get an idea)
 
-### Prompt Used
+## Prompt Used
 The model was given the puzzle description and asked to find any valid
 sequence of transitions that reduces the initial string to empty.
 
-#### The exact prompt given was:
+### The exact prompt given was:
 You are given a string rewriting puzzle.
 Initial string:
 
@@ -33,7 +34,7 @@ Return only a JSON object in the following format:
 
 
 
-### Experimental Setup
+## Experimental Setup
 Evaluated zero-shot prompting on a small but diverse subset of puzzles:
 - 3 easy puzzles (auto-generated)
 - 5 medium puzzles (auto-generated)
@@ -43,7 +44,7 @@ Each puzzle was attempted exactly once. No retries or corrections were done.
 
 ---
 
-### Quantitative Results
+## Quantitative Results
 
 | Difficulty | Solved | Total |
 |----------|--------|-------|
@@ -53,12 +54,12 @@ Each puzzle was attempted exactly once. No retries or corrections were done.
 
 
 - Zero-shot prompting performs reliably on easy puzzles with linear monotonic solution paths.
-- Performance remains strong on most medium puzzles; however, failures begin to emerge when transitions interact non-trivially.
+- Performance remains strong on most medium puzzles; however, failures begin to emerge when transitions interact non-trivially.(as seen in problem 099)
 - Zero-shot prompting fails consistently on manually curated hard puzzles.
 
 ---
 
-### Failure Modes
+## Failure Modes
 
 The dominant failure mode across medium and hard puzzles is incorrect application of transitions due to loss of state awareness.
 
@@ -72,7 +73,7 @@ recover when intermediate steps invalidate later transitions.
 
 ---
 
-### Key Insight
+## Key Insight
 
-Zero-shot prompting reveals that while LLMs can handle surface-level string rewriting, they struggle with maintaining global state consistency and respecting action preconditions in adversarial settings.
+Zero-shot prompting could solve the easy level and almost all medium level python generated puzzles, but failed on maually curated hard puzzles, therefore it reveals that while LLMs can handle surface-level string rewriting, they struggle with maintaining global state consistency and respecting action preconditions in adversarial settings.
 

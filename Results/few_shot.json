@@ -1,0 +1,74 @@
+[
+{
+  "problem_id": "078",
+  "difficulty": "medium",
+  "predicted_solution": [4, 7, 2, 1, 0],
+  "solved": true,
+  "final_string": ""
+},
+{
+  "problem_id": "099",
+  "difficulty": "medium",
+  "predicted_solution":[8, 4, 1, 2, 7, 6],
+  "solved": true,
+  "final_string": ""
+},
+{
+  "problem_id": "H02",
+  "difficulty": "hard",
+  "model":"Gemini-3",
+  "predicted_solution":[6, 1, 5, 0],
+  "solved": false,
+  "final_string": "AKTB",
+"failure_reason": "transition 5 (TK→'') not applicable"
+
+},
+{
+  "problem_id": "H02",
+  "difficulty": "hard",
+  "model":"GPT Go",
+  "predicted_solution":[1, 5, 6, 0],
+  "solved": true,
+  "final_string": ""
+
+},
+{
+  "problem_id": "H04",
+  "difficulty": "hard",
+  "model":"Gemini-3",
+  "predicted_solution":[0,1,6 ],
+  "solved": false,
+  "final_string": "LM",
+"failure_reason": "transition 6 (LKL→'') not applicable"
+
+},
+{
+  "problem_id": "H04",
+  "difficulty": "hard",
+  "model":"GPT Go",
+  "predicted_solution":[7, 6, 3, 7, 7, 1, 2],
+  "solved": false,
+  "final_string": "K",
+   "failure_reason": "transition 2 (LL→'LLL') not applicable"
+
+},
+{
+  "problem_id": "H07",
+  "difficulty": "hard",
+  "model": "Gemini-3",
+  "predicted_solution": [0, 5, 13, 14, 11, 13, 14, 9, 9, 9, 3, 4],
+  "solved": false,
+  "final_string": "LTKKKK",
+  "failure_reason": "Transition 9 (NN → 'K') not applicable"
+},
+{
+  "problem_id": "H07",
+  "difficulty": "hard",
+  "model": "GPT Go",
+  "predicted_solution": [0, 1, 8, 9, 10, 2, 14, 9],
+  "solved": false,
+  "final_string": "BOORK",
+  "failure_reason": "Transition 8 (FT → 'N') not applicable"
+}
+
+]

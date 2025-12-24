@@ -1,0 +1,43 @@
+[{
+  "problem_id": "058",
+  "difficulty": "medium",
+  "predicted_solution": [2, 8, 3, 6, 4, 5],
+  "solved": true,
+  "final_string": ""
+},
+{
+  "problem_id": "H07",
+  "difficulty": "hard",
+  "model": "Gemini-3",
+  "predicted_solution": [2, 14, 9, 9, 10, 0, 1],
+  "solved": false,
+  "final_string": "LKFTNTKN",
+  "failure_reason": "Transition 9 (NN → 'K') not applicable"
+},
+{
+  "problem_id": "H07",
+  "difficulty": "hard",
+  "model": "GPT Go",
+  "predicted_solution":  [1, 0, 2, 14, 9],
+  "solved": false,
+  "final_string": "K",
+  "failure_reason": "Final string does not match target"
+},
+{
+  "problem_id": "H08",
+  "difficulty": "hard",
+  "model": "Gemini-3",
+  "predicted_solution": [2, 6, 7, 7, 3, 4, 8, 4],
+  "solved": false,
+  "final_string": "RQIKLM",
+  "failure_reason": "Transition 7 (NT → '') not applicable"
+},
+{
+  "problem_id": "H08",
+  "difficulty": "hard",
+    "model": "GPT Go",
+  "predicted_solution": [],
+  "solved": false,
+  "final_string": "SBIRBIKLM",
+  "failure_reason": "Could not find a solution, and said, no solution exist"
+}]
