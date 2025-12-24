@@ -1,4 +1,4 @@
-# Sed-Style String Rewriting with LLMs
+# SED PUZZLE REASONING BY LLM
 ---
 
 ## 1. Project Overview
@@ -175,4 +175,5 @@ This analysis is documented in `experiments/man_vs_machine.md`.
 ## Final Note
 
 This project ensures **rigor, transparency, and analysis** over raw performance.
+
 Failures are documented, as they reveal meaningful insights into LLM reasoning behavior.
