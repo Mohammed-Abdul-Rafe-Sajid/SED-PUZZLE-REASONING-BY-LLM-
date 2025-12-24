@@ -28,7 +28,7 @@ def generate_puzzle(problem_id, difficulty="easy"):
             "tgt": ""
         })
 
-    # ✅ ADD DISTRACTORS HERE
+    # ADD DISTRACTORS HERE
     transitions = add_distractors(transitions, inserted_tokens)
 
     # Shuffle transitions to make reasoning non-trivial
@@ -70,4 +70,4 @@ if __name__ == "__main__":
     with open("data/puzzles.json", "w") as f:
         json.dump(puzzles, f, indent=2)
 
-    print("✅ Generated 100 solvable puzzles")
+    print("Generated 100 puzzles")
