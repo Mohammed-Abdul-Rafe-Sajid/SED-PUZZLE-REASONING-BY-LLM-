@@ -1,6 +1,5 @@
 # SED PUZZLE REASONING BY LLM
 ---
-
 ## 1. Project Overview
 
 This project studies how Large Language Models (LLMs) reason over **sed-style string rewriting puzzles**, where an initial string must be reduced to the empty string using a set of rewrite transitions. Each transition replaces *all* occurrences of a source substring with a target substring.
@@ -177,3 +176,4 @@ This analysis is documented in `experiments/man_vs_machine.md`.
 This project ensures **rigor, transparency, and analysis** over raw performance.
 
 Failures are documented, as they reveal meaningful insights into LLM reasoning behavior.
+
