@@ -20,3 +20,4 @@ In addition to solution-preserving deletion rules, we introduce distractor trans
 These transitions are valid but can lead to loops or dead ends if applied greedily.
 
 This design forces models to reason about transition ordering rather than locally optimal actions.
+
