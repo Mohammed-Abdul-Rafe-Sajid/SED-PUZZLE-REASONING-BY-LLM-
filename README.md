@@ -5,7 +5,6 @@
 This project studies how Large Language Models (LLMs) reason over **sed-style string rewriting puzzles**, where an initial string must be reduced to the empty string using a set of rewrite transitions. Each transition replaces *all* occurrences of a source substring with a target substring.
 
 The primary goal of this work is  to understand:
-
 * how different prompting strategies affect LLM reasoning,
 * where LLMs fail or succeed,
 * and how to evaluate partial progress meaningfully when full solutions are not found.
@@ -176,4 +175,5 @@ This analysis is documented in `experiments/man_vs_machine.md`.
 This project ensures **rigor, transparency, and analysis** over raw performance.
 
 Failures are documented, as they reveal meaningful insights into LLM reasoning behavior.
+
 
