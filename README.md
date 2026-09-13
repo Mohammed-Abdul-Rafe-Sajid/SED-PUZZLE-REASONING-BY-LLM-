@@ -12,9 +12,7 @@ The primary goal of this work is  to understand:
 
 ---
 
-## 2. What I Did / Did Not Do
-
-### What I Did
+## 2. What I Did 
 - > **ALL 3 Tasks and Bonus Task Done**
 
 * Designed and generated a **custom dataset** of solvable string-rewriting puzzles (100 records). 
@@ -34,11 +32,6 @@ The primary goal of this work is  to understand:
 * Conducted a **Man vs Machine** qualitative comparison.
 - (**See ANALYSIS folder for above two**)
 
-
-
-### What I Did Not Do
-
-* I did not use APIs (all experiments were done via web interfaces,as through it, I have closely observed model behavior, and avoided API rate limits or setup overhead).
 
 ---
 
